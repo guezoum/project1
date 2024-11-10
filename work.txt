@@ -1,1 +1,2 @@
 create page home 
+create page detting
