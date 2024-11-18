@@ -1,4 +1,3 @@
-zcreate page home 
-create page detting
+zcreate page home
 create logo
 create dashboard
