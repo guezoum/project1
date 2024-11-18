@@ -1,5 +1,8 @@
 zcreate page home
 create logo
+<<<<<<< HEAD
 create dashboard
 create page login
 
+=======
+>>>>>>> origin/master
