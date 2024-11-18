@@ -1,3 +1,2 @@
 zcreate page home
 create logo
-create dashboard
