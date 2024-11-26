@@ -1,0 +1,13 @@
+name: 'My Python Action'
+description: 'Exécute un script Python dans GitHub Actions'
+author: 'Votre nom ou organisation'
+
+inputs:
+  script:
+    description: 'Le chemin vers le script Python à exécuter'
+    required: true
+    default: 'main.py'
+
+runs:
+  using: 'python'
+  main: 'main.py'
