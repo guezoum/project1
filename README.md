@@ -7,6 +7,8 @@ git add
 git push
 git pull
 ```
-
-## wiki 
 un fichier
+
+# pull
+est une copie de dernier version d'un pprojet sur votre dépôt locale
+
